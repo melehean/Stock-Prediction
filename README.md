@@ -1,3 +1,3 @@
 # Stock prediction using recursive neural network
 ## Results:
-![obraz](https://user-images.githubusercontent.com/40114357/107130179-4af2ad80-68cb-11eb-8449-21eff4e35d82.png)
+![indeks](https://user-images.githubusercontent.com/40114357/107130301-3bc02f80-68cc-11eb-8ff8-97f2b8b423b6.png)
